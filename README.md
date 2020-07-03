@@ -37,7 +37,7 @@ A list of online open courses on machine learning.
 * Course link: http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html
 * Video link: [Youtube](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
 
-### UCB CS 189: Introduction to Machine Learning
+### UCB CS189: Introduction to Machine Learning
 * Instructor: Jennifer Listgarten
 * Course link: [https://www.eecs189.org/](https://www.eecs189.org/)
 
@@ -59,15 +59,18 @@ A list of online open courses on machine learning.
 * Instructor: Andrew Ng, Kian Katanforoosh
 * Course link: http://cs230.stanford.edu/lecture/
 
-### UCB CS 188: Introduction to Artificial Intelligence
+### UCB CS188: Introduction to Artificial Intelligence
 * Instructor: Nikita Kitaev
 * Course link: https://inst.eecs.berkeley.edu/~cs188/su20/
 
 ### Unsupervised Feature Learning and Deep Learning (Stanford)
 * Course link: http://deeplearning.stanford.edu/tutorial/
 
-### Deep Learning and Bayesian Methods (Summer School)
+### UCB CS294-158-SP19: Deep Unsupervised Learning
+* Instructors: Pieter Abbeel, Peter Chen, Jonathan Ho, Aravind Srinivas
+* Course link: https://sites.google.com/view/berkeley-cs294-158-sp19/home
 
+### Deep Learning and Bayesian Methods (Summer School)
 * Course link: http://deepbayes.ru/
 
 ## Computer Vision
@@ -75,7 +78,6 @@ A list of online open courses on machine learning.
 ### Stanford CS231n: Convolutional Neural Networks for Visual Recognition
 * Instructor: Fei-Fei Li
 * Course link: http://cs231n.stanford.edu/
-
 
 ### Stanford CS231A: Computer Vision, From 3D Reconstruction to Recognition
 * Instructor: Silvio Savarese
@@ -89,7 +91,7 @@ A list of online open courses on machine learning.
 
 ## Reinforcement Learning
 
-### UCB CS 285: Deep Reinforcement Learning
+### UCB CS285: Deep Reinforcement Learning
 * Instructor: Sergey Levine
 * Course link: http://rail.eecs.berkeley.edu/deeprlcourse/
 
@@ -99,6 +101,8 @@ A list of online open courses on machine learning.
 * Video Course link: [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 ## Other Topics
+### Full Stack Deep Learning Bootcamp
+* Course link: https://fullstackdeeplearning.com/march2019
 
 ### Stanford CS330: Deep Multi-Task and Meta Learning
 * Instructor: Chelsea Finn
@@ -107,3 +111,4 @@ A list of online open courses on machine learning.
 ## Books / Websites
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
+* [Deep Learning by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
