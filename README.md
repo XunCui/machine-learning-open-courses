@@ -26,19 +26,19 @@ A list of online open courses on machine learning.
 * Course link: http://mathofml.cs.washington.edu/
 * Video link: [Youtube](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 
-### Other Resources
-* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
-
 ## Machine Learning
 
 ### Stanford CS229: Machine Learning
-
 * Instructor: Anand Avati
 * Course link: http://cs229.stanford.edu/index.html
 
+### CMU 10-601: Introduction to Machine Learning
+* Instructor: Matt Gormley
+* Course link: http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html
+* Video link: [Youtube](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
+
 ### UCB CS 189: Introduction to Machine Learning
-* Instructor: [Jennifer Listgarten](http://www.jennifer.listgarten.com/)
+* Instructor: Jennifer Listgarten
 * Course link: [https://www.eecs189.org/](https://www.eecs189.org/)
 
 ### NYU DS-GA 1003: Machine Learning
@@ -104,3 +104,6 @@ A list of online open courses on machine learning.
 * Instructor: Chelsea Finn
 * Course link: [http://cs330.stanford.edu/](http://cs330.stanford.edu/)
 
+## Books / Websites
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
