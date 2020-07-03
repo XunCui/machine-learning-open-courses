@@ -30,7 +30,8 @@ A list of online open courses on machine learning.
 
 ### Stanford CS229: Machine Learning
 * Instructor: Anand Avati
-* Course link: http://cs229.stanford.edu/index.html
+* Course link: http://cs229.stanford.edu/syllabus-spring2020.html
+* Video link: [Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 ### CMU 10-601: Introduction to Machine Learning
 * Instructor: Matt Gormley
