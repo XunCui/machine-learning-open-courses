@@ -18,6 +18,7 @@ A list of online open courses on machine learning.
 
 ### CMU 10-725: Convex Optimization
 
+* Instructor: Ryan Tibshirani
 * Course link: http://www.stat.cmu.edu/~ryantibs/convexopt/
 
 ### Mathematics of Machine Learning Summer School (UW)
@@ -26,7 +27,7 @@ A list of online open courses on machine learning.
 * Video link: [Youtube](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 
 ### Other Resources
-* [Interactive Linear Algebra]([https://textbooks.math.gatech.edu/ila/index.html](https://textbooks.math.gatech.edu/ila/index.html))
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
 ## Machine Learning
@@ -43,7 +44,6 @@ A list of online open courses on machine learning.
 ### NYU DS-GA 1003: Machine Learning
 * Instructor: Julia Kempe
 * Course link: https://davidrosenberg.github.io/ml2019/#home
-* 
 
 ### Machine Learning Summer School 2019
 * Course link: https://sites.google.com/view/mlss-2019/home?authuser=0
