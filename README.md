@@ -42,6 +42,8 @@ A list of online open courses on machine learning.
 
 ### NYU DS-GA 1003: Machine Learning
 * Instructor: Julia Kempe
+* Course link: https://davidrosenberg.github.io/ml2019/#home
+* 
 
 ### Machine Learning Summer School 2019
 * Course link: https://sites.google.com/view/mlss-2019/home?authuser=0
