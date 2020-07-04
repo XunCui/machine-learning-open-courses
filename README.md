@@ -95,7 +95,7 @@ A list of online open courses on machine learning.
 ### UCL COMPM050/COMPGI13: Reinforcement Learning (DeepMind)
 * Instructor: David Silver
 * Course Course link: https://www.davidsilver.uk/teaching/
-* Video Course link: [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+* Video link: [Youtube](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 ## Other Topics
 ### Full Stack Deep Learning Bootcamp
