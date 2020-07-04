@@ -26,7 +26,7 @@ A list of online open courses on machine learning.
 * Course link: http://mathofml.cs.washington.edu/
 * Video link: [Youtube](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 
-## Machine Learning
+## Machine Learning Basics
 
 ### Stanford CS229: Machine Learning
 * Instructor: Anand Avati
@@ -67,10 +67,6 @@ A list of online open courses on machine learning.
 ### Unsupervised Feature Learning and Deep Learning (Stanford)
 * Course link: http://deeplearning.stanford.edu/tutorial/
 
-### UCB CS294-158-SP19: Deep Unsupervised Learning
-* Instructors: Pieter Abbeel, Peter Chen, Jonathan Ho, Aravind Srinivas
-* Course link: https://sites.google.com/view/berkeley-cs294-158-sp19/home
-
 ### Deep Learning and Bayesian Methods (Summer School)
 * Course link: http://deepbayes.ru/
 
@@ -104,6 +100,10 @@ A list of online open courses on machine learning.
 ## Other Topics
 ### Full Stack Deep Learning Bootcamp
 * Course link: https://fullstackdeeplearning.com/march2019
+
+### UCB CS294-158-SP19: Deep Unsupervised Learning
+* Instructors: Pieter Abbeel, Peter Chen, Jonathan Ho, Aravind Srinivas
+* Course link: https://sites.google.com/view/berkeley-cs294-158-sp19/home
 
 ### Stanford CS330: Deep Multi-Task and Meta Learning
 * Instructor: Chelsea Finn
