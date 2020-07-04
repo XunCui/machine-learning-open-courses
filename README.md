@@ -11,6 +11,10 @@ A list of online open courses on machine learning.
 * Instructor: Gilbert Strang
 * Course link: https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
 
+### NYU DS-GA 1002: Statistical and Mathematical Methods
+* Instructor: Carlos Fernandez-Granda
+* Course link: https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html
+
 ### Stanford EE364a: Convex Optimization I
 * Instructor: Anqi Fu
 * Course link: http://web.stanford.edu/class/ee364a/lectures.html
@@ -45,6 +49,7 @@ A list of online open courses on machine learning.
 ### NYU DS-GA 1003: Machine Learning
 * Instructor: Julia Kempe
 * Course link: https://davidrosenberg.github.io/ml2019/#home
+* Video link: [Youtube](https://www.youtube.com/playlist?list=PLC6pMXTX4r7Qn3VT58GyI7k34srlGxXX_)
 
 ### Machine Learning Summer School 2019
 * Course link: https://sites.google.com/view/mlss-2019/home?authuser=0
@@ -89,7 +94,6 @@ A list of online open courses on machine learning.
 ### CMU 11-411/11-611: Natural Language Processing S20
 * Instructors: Alan W. Black, David R. Mortensen
 * Course link: http://demo.clab.cs.cmu.edu/NLP/
-
 
 ## Reinforcement Learning
 
