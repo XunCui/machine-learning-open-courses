@@ -86,6 +86,11 @@ A list of online open courses on machine learning.
 * Instructor: Chris Manning
 * Course link: http://web.stanford.edu/class/cs224n/
 
+### CMU 11-411/11-611: Natural Language Processing S20
+* Instructors: Alan W. Black, David R. Mortensen
+* Course link: http://demo.clab.cs.cmu.edu/NLP/
+
+
 ## Reinforcement Learning
 
 ### UCB CS285: Deep Reinforcement Learning
